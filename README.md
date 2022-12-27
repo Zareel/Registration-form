@@ -2,4 +2,6 @@
 
 Learnt HTML form/ input elements with Freecodecamp.org/learn
 
+[live](https://z-registration-form.netlify.app/)
+
 ![RegistratinForm](https://user-images.githubusercontent.com/110910838/209643955-230b523e-7a9d-4d5b-bb0d-e17cc5b90618.png)
